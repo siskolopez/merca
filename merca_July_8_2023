@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="la1.es" tvg-name="[ES] LA 1 FHD" tvg-logo="http://picon.live-ott.com/picon/Espana/LA1.png" group-title="[ES] SPAIN 4K",[ES] LA 1 FHD
-http://line.tivi-one.com:80/KEiuAW/0JwATfdhHL/2898
+http://172.67.181.71:80/KEiuAW/0JwATfdhHL/2898
 #EXTINF:-1 tvg-id="la2.es" tvg-name="[ES] LA 2 FHD" tvg-logo="http://picon.live-ott.com/picon/Espana/LA2.png" group-title="[ES] SPAIN 4K",[ES] LA 2 FHD
 http://line.tivi-one.com:80/KEiuAW/0JwATfdhHL/2897
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="[ES] ANTENA 3 FHD" tvg-logo="http://picon.live-ott.com/picon/Espana/ANTENA3.png" group-title="[ES] SPAIN 4K",[ES] ANTENA 3 FHD
